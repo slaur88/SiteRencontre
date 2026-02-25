@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="SiteRencontre.Core/SiteRencontre.Core.csproj" />
+  <Project Path="SiteRencontre.Domain/SiteRencontre.Domain.csproj" />
+  <Project Path="SiteRencontre.Infra/SiteRencontre.Infra.csproj" />
+  <Project Path="SiteRencontre/SiteRencontre.csproj" />
+</Solution>
